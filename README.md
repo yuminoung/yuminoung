@@ -9,7 +9,7 @@ Hello, My name is Yumin Oung, I'm a web developer, currently working as a self-e
 👨‍💻 Apple Guy </br>
 
 ## Skills
-DigitalOcean && Firebase <br>
+DigitalOcean & Firebase <br>
 Flutter </br>
 Laravel </br>
 Tailwind CSS </br>
